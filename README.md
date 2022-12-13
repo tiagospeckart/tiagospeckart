@@ -1,16 +1,34 @@
-Olá! Meu nome é Tiago e estou dando meus primeiros passos no mundo da programação. No momento não trabalho ainda na área, por isso estou estudando e me dedicando com toda energia possível para tornar isso uma realidade.
+## 🐧 Olá, meu nome é <strong>Tiago!</strong>
 
-Desde o momento em que tomei a decisão de começar este processo, logo pensei que precisaria de alguma base para entender bem desse universo, então merecomendaram o curso CS50 de Harvard. O repositório do curso ainda privado, mas assim que possível tornarei público 😉
+Estou atuamente me formando como Desenvolvedor Web Fullstack pela [Gama Academy](https://www.gama.academy/gama-experience/desenvolvimento-web), com foco em desenvolvimento Back-end.
+Cursei também [CS50](https://cs50.harvard.edu/x/2022/) na metade de 2022.
 
-*Assim que terminar de fazer uma limpeza geral...*
+### 🔭 Atualmente Desenvolvendo:
+- [API La Vie](https://github.com/tiagospeckart/API-la-vie)
 
-Por enquanto me considero com uma base em C e Python, e no meu curso atual, com foco maior em Web (HTML, CSS, JS). Outras tecnologias virão num futuro não tão distante.
+### 💬 Caso queira entrar em contato:
+[![Linkedin: Tiago Martins Speckart](https://img.shields.io/badge/-Tiago_Martins_Speckart-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-martins-speckart-27b518247/)](https://www.linkedin.com/in/tiago-martins-speckart-27b518247/)
+[![Gmail Badge](https://img.shields.io/badge/-tiagospeckart@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagospeckart@gmail.com)](mailto:tiagospeckart@gmail.com)
+[![GitHub tiagospeckart]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/tiagospeckart)
 
-Contatos diversos:
+----
 
-🐤 @tiagospeckart
+## 🚀 Minhas Skills
 
-📩 tiagospeckart@gmail.com
+<code><img height="32" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/></code>
+<code><img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></code>
+<code><img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></code>
+<code><img height="32" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></code>
+<code><img height="32" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></code>
+
+---
+
+## ⭐ Informações sobre minha conta GitHub
+[![tiagospeckart's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tiagospeckart&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![tiagospeckart's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tiagospeckart&show_icons=true&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!---
 tiagospeckart/tiagospeckart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
