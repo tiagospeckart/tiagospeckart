@@ -4,7 +4,7 @@ Estou atuamente me formando como Desenvolvedor Web Fullstack pela [Gama Academy]
 Cursei também [CS50](https://cs50.harvard.edu/x/2022/) na metade de 2022.
 
 ### 🔭 Atualmente Desenvolvendo:
-- [API La Vie](https://github.com/tiagospeckart/API-la-vie)
+- [geekscript-backend](https://github.com/tiagospeckart/geekscript-backend)
 
 ### 💬 Caso queira entrar em contato:
 [![Linkedin: Tiago Martins Speckart](https://img.shields.io/badge/-Tiago_Martins_Speckart-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-martins-speckart-27b518247/)](https://www.linkedin.com/in/tiago-martins-speckart-27b518247/)
