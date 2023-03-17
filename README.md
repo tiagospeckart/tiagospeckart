@@ -1,19 +1,18 @@
-## 🐧 Olá, meu nome é <strong>Tiago!</strong>
+## 🐧 Hello, my name is <strong>Tiago!</strong>
+I am currently training to become a Fullstack Web Developer, focusing on backend development. I've just finished [Gama Academy](https://www.gama.academy/gama-experience/desenvolvimento-web) WebDevelopment Bootcamp, and I also completed [CS50](https://cs50.harvard.edu/x/2022/) in mid-2022.
 
-Estou atuamente me formando como Desenvolvedor Web Fullstack pela [Gama Academy](https://www.gama.academy/gama-experience/desenvolvimento-web), com foco em desenvolvimento Back-end.
-Cursei também [CS50](https://cs50.harvard.edu/x/2022/) na metade de 2022.
+### 🔭 Currently Developing:
+[geekscript-backend](https://github.com/tiagospeckart/geekscript-backend)
 
-### 🔭 Atualmente Desenvolvendo:
-- [geekscript-backend](https://github.com/tiagospeckart/geekscript-backend)
+### 💬 If you want to get in touch:
 
-### 💬 Caso queira entrar em contato:
 [![Linkedin: Tiago Martins Speckart](https://img.shields.io/badge/-Tiago_Martins_Speckart-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-martins-speckart-27b518247/)](https://www.linkedin.com/in/tiago-martins-speckart-27b518247/)
 [![Gmail Badge](https://img.shields.io/badge/-tiagospeckart@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagospeckart@gmail.com)](mailto:tiagospeckart@gmail.com)
 [![GitHub tiagospeckart]( https://img.shields.io/github/followers/tiagospeckart?label=follow&style=social)](https://github.com/tiagospeckart)
 
 ----
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 <code><img height="32" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs"/></code>
@@ -26,7 +25,7 @@ Cursei também [CS50](https://cs50.harvard.edu/x/2022/) na metade de 2022.
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Information about my GitHub account
 [![tiagospeckart's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tiagospeckart&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![tiagospeckart's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tiagospeckart&show_icons=true&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
