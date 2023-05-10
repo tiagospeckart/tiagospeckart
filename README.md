@@ -37,10 +37,10 @@ I'm a Fullstack Web Developer focusing on backend development. I'm passionate ab
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=tiagospeckart&show_icons=true&bg_color=ffffff00&title_color=auto&text_color=auto&icon_color=auto" alt="tiagospeckart's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=tiagospeckart&show_icons=true&show_icons=true&theme=transparent" alt="tiagospeckart's GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagospeckart&size_weight=0.5&count_weight=0.5&layout=compact&bg_color=ffffff00&title_color=auto&text_color=auto" alt="tiagospeckart's Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagospeckart&size_weight=0.5&count_weight=0.5&layout=compact&show_icons=true&theme=transparent" alt="tiagospeckart's Top Languages" />
     </td>
   </tr>
 </table>
