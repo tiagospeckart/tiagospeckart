@@ -1,11 +1,12 @@
 ## 🐧 Hello, my name is <strong>Tiago!</strong>
 
-I'm a Fullstack Web Developer focusing on backend development. I'm passionate about learning new technologies and enjoy taking on challenging projects.
+I'm a Fullstack Web Developer focusing on backend development. I'm passionate about learning new technologies and enjoy taking on challenging projects. Living and Working from Blumenau, Brazil.
+I love note taking, learning japanese and cooking!
 
 ## 👨‍💻 About Me
 
 - 🔭 Completed: [CS50](https://cs50.harvard.edu/x/2022/) and [Gama Academy Fullstack Webdevelopment Bootcamp](https://www.gama.academy/gama-experience/desenvolvimento-web)
-- 🌱 Learning: Java
+- 🌱 Learning: Java -> [+Devs2Blu](http://www.devs2blu.com.br/)
 - 🎯 Career Goals: Contribute to open-source projects and develop scalable applications
 
 ## 🚀 Skills
@@ -24,7 +25,11 @@ I'm a Fullstack Web Developer focusing on backend development. I'm passionate ab
 
 ## 💼 Top Projects
 
-- [geekscript-backend](https://github.com/tiagospeckart/geekscript-backend): A prototype of a backend server that manages a REST API for an e-commerce platform
+- [geekscript-backend](https://github.com/tiagospeckart/geekscript-backend): This project is a prototype of a backend server that manages a REST API for an e-commerce platform about geek products. It was built with Node.js and Express, utilizing a MySQL database with Sequelize ORM. In this project, I implemented and documented with Swagger various API endpoints to handle product, user, and order management.
+
+## 🚀 Developing
+
+- [RavinProject](https://github.com/RavinProject): A Java-based restaurant management system. Currently supports CRUD operations for customers and employees. Uses MVCS pattern and other object-oriented programming concepts. In the near future it'll be integrated with Spring, PostgreSQL and Angular.
 
 ## 📫 Get in Touch:
 
