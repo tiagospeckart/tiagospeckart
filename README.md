@@ -4,9 +4,21 @@ I'm a Fullstack Web Developer focusing on backend development. I'm passionate ab
 
 ## 👨‍💻 About Me
 
-- 🔭 Completed: [CS50](https://cs50.harvard.edu/x/2022/) and [Gama Academy Fullstack Webdevelopment Bootcamp](https://www.gama.academy/gama-experience/desenvolvimento-web)
-- 🌱 Learning: Java through [+Devs2Blu](http://www.devs2blu.com.br/)
-- 🎯 Career Goals: Contribute to open-source projects and develop scalable applications
+<table cellspacing="0" cellpadding="10">
+  <tr>
+    <td width="60%" style="display: flex; flex-direction: column; justify-content: space-between;">
+      <ul>
+        <li>🔭 Completed: <a href="https://cs50.harvard.edu/x/2022/">CS50</a> and <a href="https://www.gama.academy/gama-experience/desenvolvimento-web">Gama Academy Fullstack Webdevelopment Bootcamp</a></li>
+        <li>🌱 Learning: Java through <a href="http://www.devs2blu.com.br/">+Devs2Blu</a></li>
+        <li>🎯 Career Goals: Contribute to open-source projects and develop scalable applications</li>
+        <li>📖 Reading: <a href="https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html">Structure and Interpretation of Computer Programs</a></li>
+      </ul>
+    </td>
+    <td valign="top" width="40%">
+      <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64b46f120a49b0be0ed332cd?variant=dark&roadmaps=java%2Cbackend%2Csoftware-design-architecture%2Cangular" alt="roadmap.sh"/></a>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Skills
 
