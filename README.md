@@ -41,6 +41,8 @@ I'm a Fullstack Web Developer focusing on backend development. I'm passionate ab
 
 ## 💼 Top Projects
 
+- [la-vie-spring](https://github.com/tiagospeckart/la-vie-spring) : Backend server MVP that manages a REST API for a psychotherapy clinic. This project is a rebuild of my [first API](https://github.com/tiagospeckart/la-vie-backend), now written in Java. Created as a part of the SpringBoot module in the +Devs2Blu progra 2023.
+
 - [geekscript-backend](https://github.com/tiagospeckart/geekscript-backend): This is a prototype of a backend server managing a REST API for an e-commerce platform specializing in geek products. Built with Node.js and Express, it utilizes a MySQL database with Sequelize ORM. In this project, I implemented and documented various API endpoints for product, user, and order management using Swagger.
 
 ## ⚡ Developing
