@@ -1,6 +1,6 @@
 ## 🐧 Hello, my name is <strong>Tiago!</strong>
 
-I'm a Fullstack Web Developer focusing on backend development. I'm passionate about learning new technologies and enjoy taking on challenging projects. Currently living and working in Blumenau, Brazil. I love note-taking, learning Japanese, and cooking!
+I'm a Fullstack Web Developer focusing on backend development. This means that I can make ugly websites (at least the system is nice).
 
 ## 👨‍💻 About Me
 
@@ -8,10 +8,10 @@ I'm a Fullstack Web Developer focusing on backend development. I'm passionate ab
   <tr>
     <td width="60%" style="display: flex; flex-direction: column; justify-content: space-between;">
       <ul>
-        <li>🔭 Completed: <a href="https://cs50.harvard.edu/x/2022/">CS50</a> and <a href="https://www.gama.academy/gama-experience/desenvolvimento-web">Gama Academy Fullstack Webdevelopment Bootcamp</a></li>
-        <li>🌱 Learning: Java through <a href="http://www.devs2blu.com.br/">+Devs2Blu</a></li>
-        <li>🎯 Career Goals: Contribute to open-source projects and develop scalable applications</li>
-        <li>📖 Reading: <a href="https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html">Structure and Interpretation of Computer Programs</a></li>
+        <li>🔭 Working with: LLMs and IaC</li>
+        <li>🌱 Learning: Rust, Kubernetes, Product Development</li>
+        <li>🎯 Career Goals: Solidify my knowledge with Java Development so I can implement complex system features. I want to be able to make the complex look easy</li>
+        <li>📖 Reading: <a href="https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition">The Pragmatic Programmer</a></li>
       </ul>
     </td>
     <td valign="top" width="40%">
@@ -41,13 +41,13 @@ I'm a Fullstack Web Developer focusing on backend development. I'm passionate ab
 
 ## 💼 Top Projects
 
-- [la-vie-spring](https://github.com/tiagospeckart/la-vie-spring) : Backend server MVP that manages a REST API for a psychotherapy clinic. This project is a rebuild of my [first API](https://github.com/tiagospeckart/la-vie-backend), now written in Java. Created as a part of the SpringBoot module in the +Devs2Blu progra 2023.
+- [la-vie-spring](https://github.com/tiagospeckart/la-vie-spring) : Backend server MVP that manages a REST API for a psychotherapy clinic. This project is a rebuild of my [first API](https://github.com/tiagospeckart/la-vie-backend), now written in Java. Created as a part of the SpringBoot module in the +Devs2Blu program 2023.
 
 - [geekscript-backend](https://github.com/tiagospeckart/geekscript-backend): This is a prototype of a backend server managing a REST API for an e-commerce platform specializing in geek products. Built with Node.js and Express, it utilizes a MySQL database with Sequelize ORM. In this project, I implemented and documented various API endpoints for product, user, and order management using Swagger.
 
 ## ⚡ Developing
 
-- [RavinProject](https://github.com/RavinProject): A Java-based restaurant management system. Currently supports CRUD operations for customers and employees. The project employs MVC pattern and other object-oriented programming concepts. Future integrations will include Spring, PostgreSQL, and Angular.
+- For now, it's a secret
 
 ## 📫 Get in Touch:
 
